@@ -10,7 +10,7 @@ Steps to reproduce issue:
 
 ## Enviorment
 I reproduced this issue with:
-dioxus `0.5.0`
-Dioxus features `fullstack`
-rust version `1.77.1`
-OS `Linux 6.8.2-zen1-1-zen #1 ZEN SMP PREEMPT_DYNAMIC x86_64 GNU/Linux`
+- dioxus `0.5.0`
+- Dioxus features `fullstack`
+- rust version `1.77.1`
+- OS `Linux 6.8.2-zen1-1-zen #1 ZEN SMP PREEMPT_DYNAMIC x86_64 GNU/Linux`
